@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Ingrid Darling
+- Font Author: Copyright 2014-2021 The Ingrid Darling Project Authors (https://github.com/googlefonts/ingrid-darling)
+- Font Source: http://fonts.gstatic.com/s/ingriddarling/v5/LDIrapaJNxUtSuFdw-9yf4rCPsLOub458jGL.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
